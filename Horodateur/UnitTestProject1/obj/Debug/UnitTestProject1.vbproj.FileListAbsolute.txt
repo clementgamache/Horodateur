@@ -1,0 +1,8 @@
+C:\Users\Clement Gamache\Horodateur\Horodateur\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Clement Gamache\Horodateur\Horodateur\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Clement Gamache\Horodateur\Horodateur\UnitTestProject1\bin\Debug\UnitTestProject1.xml
+C:\Users\Clement Gamache\Horodateur\Horodateur\UnitTestProject1\obj\Debug\UnitTestProject1.Resources.resources
+C:\Users\Clement Gamache\Horodateur\Horodateur\UnitTestProject1\obj\Debug\UnitTestProject1.vbproj.GenerateResource.Cache
+C:\Users\Clement Gamache\Horodateur\Horodateur\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Clement Gamache\Horodateur\Horodateur\UnitTestProject1\obj\Debug\UnitTestProject1.xml
+C:\Users\Clement Gamache\Horodateur\Horodateur\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
