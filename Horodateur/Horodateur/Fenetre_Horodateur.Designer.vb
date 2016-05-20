@@ -47,9 +47,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button1.BackColor = System.Drawing.SystemColors.Control
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(77, 161)
+        Me.Button1.Location = New System.Drawing.Point(116, 248)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.Size = New System.Drawing.Size(112, 35)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "1"
         Me.Button1.UseVisualStyleBackColor = False
@@ -58,9 +59,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button2.BackColor = System.Drawing.SystemColors.Control
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(77, 161)
+        Me.Button2.Location = New System.Drawing.Point(116, 248)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.Size = New System.Drawing.Size(112, 35)
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "2"
         Me.Button2.UseVisualStyleBackColor = False
@@ -69,9 +71,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button3.BackColor = System.Drawing.SystemColors.Control
         Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(77, 161)
+        Me.Button3.Location = New System.Drawing.Point(116, 248)
+        Me.Button3.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.Size = New System.Drawing.Size(112, 35)
         Me.Button3.TabIndex = 2
         Me.Button3.Text = "3"
         Me.Button3.UseVisualStyleBackColor = False
@@ -80,9 +83,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button4.BackColor = System.Drawing.SystemColors.Control
         Me.Button4.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button4.Location = New System.Drawing.Point(77, 161)
+        Me.Button4.Location = New System.Drawing.Point(116, 248)
+        Me.Button4.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(75, 23)
+        Me.Button4.Size = New System.Drawing.Size(112, 35)
         Me.Button4.TabIndex = 3
         Me.Button4.Text = "4"
         Me.Button4.UseVisualStyleBackColor = False
@@ -91,9 +95,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button5.BackColor = System.Drawing.SystemColors.Control
         Me.Button5.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button5.Location = New System.Drawing.Point(77, 161)
+        Me.Button5.Location = New System.Drawing.Point(116, 248)
+        Me.Button5.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(75, 23)
+        Me.Button5.Size = New System.Drawing.Size(112, 35)
         Me.Button5.TabIndex = 4
         Me.Button5.Text = "5"
         Me.Button5.UseVisualStyleBackColor = False
@@ -102,9 +107,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button6.BackColor = System.Drawing.SystemColors.Control
         Me.Button6.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button6.Location = New System.Drawing.Point(77, 161)
+        Me.Button6.Location = New System.Drawing.Point(116, 248)
+        Me.Button6.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(75, 23)
+        Me.Button6.Size = New System.Drawing.Size(112, 35)
         Me.Button6.TabIndex = 5
         Me.Button6.Text = "6"
         Me.Button6.UseVisualStyleBackColor = False
@@ -113,9 +119,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button7.BackColor = System.Drawing.SystemColors.Control
         Me.Button7.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button7.Location = New System.Drawing.Point(77, 161)
+        Me.Button7.Location = New System.Drawing.Point(116, 248)
+        Me.Button7.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button7.Name = "Button7"
-        Me.Button7.Size = New System.Drawing.Size(75, 23)
+        Me.Button7.Size = New System.Drawing.Size(112, 35)
         Me.Button7.TabIndex = 6
         Me.Button7.Text = "7"
         Me.Button7.UseVisualStyleBackColor = False
@@ -124,9 +131,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button8.BackColor = System.Drawing.SystemColors.Control
         Me.Button8.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button8.Location = New System.Drawing.Point(416, 161)
+        Me.Button8.Location = New System.Drawing.Point(624, 248)
+        Me.Button8.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button8.Name = "Button8"
-        Me.Button8.Size = New System.Drawing.Size(75, 62)
+        Me.Button8.Size = New System.Drawing.Size(112, 95)
         Me.Button8.TabIndex = 7
         Me.Button8.Text = "8"
         Me.Button8.UseVisualStyleBackColor = False
@@ -135,9 +143,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button9.BackColor = System.Drawing.SystemColors.Control
         Me.Button9.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button9.Location = New System.Drawing.Point(31, 198)
+        Me.Button9.Location = New System.Drawing.Point(46, 305)
+        Me.Button9.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button9.Name = "Button9"
-        Me.Button9.Size = New System.Drawing.Size(75, 61)
+        Me.Button9.Size = New System.Drawing.Size(112, 94)
         Me.Button9.TabIndex = 8
         Me.Button9.Text = "9"
         Me.Button9.UseVisualStyleBackColor = False
@@ -147,9 +156,10 @@ Partial Class Fenetre_Horodateur
         Me.ButtonAnnuler.BackColor = System.Drawing.SystemColors.Control
         Me.ButtonAnnuler.DialogResult = System.Windows.Forms.DialogResult.Cancel
         Me.ButtonAnnuler.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonAnnuler.Location = New System.Drawing.Point(64, 111)
+        Me.ButtonAnnuler.Location = New System.Drawing.Point(96, 171)
+        Me.ButtonAnnuler.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.ButtonAnnuler.Name = "ButtonAnnuler"
-        Me.ButtonAnnuler.Size = New System.Drawing.Size(75, 23)
+        Me.ButtonAnnuler.Size = New System.Drawing.Size(112, 35)
         Me.ButtonAnnuler.TabIndex = 9
         Me.ButtonAnnuler.Text = "Annuler"
         Me.ButtonAnnuler.UseVisualStyleBackColor = False
@@ -158,9 +168,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.Button0.BackColor = System.Drawing.SystemColors.Control
         Me.Button0.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button0.Location = New System.Drawing.Point(547, 85)
+        Me.Button0.Location = New System.Drawing.Point(820, 131)
+        Me.Button0.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button0.Name = "Button0"
-        Me.Button0.Size = New System.Drawing.Size(75, 60)
+        Me.Button0.Size = New System.Drawing.Size(112, 92)
         Me.Button0.TabIndex = 10
         Me.Button0.Text = "0"
         Me.Button0.UseVisualStyleBackColor = False
@@ -168,10 +179,11 @@ Partial Class Fenetre_Horodateur
         'TextBoxId
         '
         Me.TextBoxId.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TextBoxId.Location = New System.Drawing.Point(547, 170)
+        Me.TextBoxId.Location = New System.Drawing.Point(820, 262)
+        Me.TextBoxId.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.TextBoxId.Name = "TextBoxId"
         Me.TextBoxId.PasswordChar = Global.Microsoft.VisualBasic.ChrW(8226)
-        Me.TextBoxId.Size = New System.Drawing.Size(100, 38)
+        Me.TextBoxId.Size = New System.Drawing.Size(148, 53)
         Me.TextBoxId.TabIndex = 12
         Me.TextBoxId.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
@@ -180,9 +192,10 @@ Partial Class Fenetre_Horodateur
         Me.ButtonEntree.BackColor = System.Drawing.SystemColors.Control
         Me.ButtonEntree.Enabled = False
         Me.ButtonEntree.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonEntree.Location = New System.Drawing.Point(173, 170)
+        Me.ButtonEntree.Location = New System.Drawing.Point(260, 262)
+        Me.ButtonEntree.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.ButtonEntree.Name = "ButtonEntree"
-        Me.ButtonEntree.Size = New System.Drawing.Size(75, 69)
+        Me.ButtonEntree.Size = New System.Drawing.Size(112, 106)
         Me.ButtonEntree.TabIndex = 13
         Me.ButtonEntree.Text = "ENTRÉE"
         Me.ButtonEntree.UseVisualStyleBackColor = False
@@ -192,9 +205,10 @@ Partial Class Fenetre_Horodateur
         Me.ButtonSortie.BackColor = System.Drawing.SystemColors.Control
         Me.ButtonSortie.Enabled = False
         Me.ButtonSortie.Font = New System.Drawing.Font("Microsoft Sans Serif", 40.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonSortie.Location = New System.Drawing.Point(322, 185)
+        Me.ButtonSortie.Location = New System.Drawing.Point(483, 285)
+        Me.ButtonSortie.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.ButtonSortie.Name = "ButtonSortie"
-        Me.ButtonSortie.Size = New System.Drawing.Size(75, 23)
+        Me.ButtonSortie.Size = New System.Drawing.Size(112, 83)
         Me.ButtonSortie.TabIndex = 14
         Me.ButtonSortie.Text = "SORTIE"
         Me.ButtonSortie.UseVisualStyleBackColor = False
@@ -203,9 +217,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.LabelBas.BackColor = System.Drawing.SystemColors.Control
         Me.LabelBas.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LabelBas.Location = New System.Drawing.Point(257, 141)
+        Me.LabelBas.Location = New System.Drawing.Point(386, 217)
+        Me.LabelBas.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabelBas.Name = "LabelBas"
-        Me.LabelBas.Size = New System.Drawing.Size(100, 23)
+        Me.LabelBas.Size = New System.Drawing.Size(150, 35)
         Me.LabelBas.TabIndex = 16
         Me.LabelBas.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
@@ -216,9 +231,10 @@ Partial Class Fenetre_Horodateur
         '
         Me.LabelTimer.BackColor = System.Drawing.SystemColors.Control
         Me.LabelTimer.Font = New System.Drawing.Font("Microsoft Sans Serif", 30.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.LabelTimer.Location = New System.Drawing.Point(56, 51)
+        Me.LabelTimer.Location = New System.Drawing.Point(84, 78)
+        Me.LabelTimer.Margin = New System.Windows.Forms.Padding(4, 0, 4, 0)
         Me.LabelTimer.Name = "LabelTimer"
-        Me.LabelTimer.Size = New System.Drawing.Size(192, 57)
+        Me.LabelTimer.Size = New System.Drawing.Size(288, 88)
         Me.LabelTimer.TabIndex = 19
         Me.LabelTimer.Text = "Timer"
         Me.LabelTimer.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -227,20 +243,21 @@ Partial Class Fenetre_Horodateur
         '
         Me.ButtonAdmin.BackColor = System.Drawing.SystemColors.Control
         Me.ButtonAdmin.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.ButtonAdmin.Location = New System.Drawing.Point(355, 51)
+        Me.ButtonAdmin.Location = New System.Drawing.Point(532, 78)
+        Me.ButtonAdmin.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.ButtonAdmin.Name = "ButtonAdmin"
-        Me.ButtonAdmin.Size = New System.Drawing.Size(75, 23)
+        Me.ButtonAdmin.Size = New System.Drawing.Size(112, 35)
         Me.ButtonAdmin.TabIndex = 20
         Me.ButtonAdmin.Text = "Mode administrateur"
         Me.ButtonAdmin.UseVisualStyleBackColor = False
         '
         'Fenetre_Horodateur
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.Blue
         Me.CancelButton = Me.ButtonAnnuler
-        Me.ClientSize = New System.Drawing.Size(1215, 553)
+        Me.ClientSize = New System.Drawing.Size(1822, 851)
         Me.Controls.Add(Me.ButtonAdmin)
         Me.Controls.Add(Me.LabelTimer)
         Me.Controls.Add(Me.LabelBas)
@@ -259,12 +276,13 @@ Partial Class Fenetre_Horodateur
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
+        Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "Fenetre_Horodateur"
         Me.Text = "Horodateur"
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         Me.ResumeLayout(False)
         Me.PerformLayout()
-        etablirDimensions()
+
     End Sub
     Friend WithEvents Button1 As System.Windows.Forms.Button
     Friend WithEvents Button2 As System.Windows.Forms.Button
